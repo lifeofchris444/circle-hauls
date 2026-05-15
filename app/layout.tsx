@@ -11,7 +11,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Target Method",
-  description: "Discover how people are unlocking up to $500 in Target rewards. Complete simple steps and claim your gift card today.",
+  description: "Discover how people are unlocking up to $750 in Target rewards. Complete simple steps and claim your gift card today.",
   generator: "v0.app",
   icons: {
     icon: [
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     title: "Target Method",
-    description: "Unlock up to $500 in Target rewards with a simple process.",
+    description: "Unlock up to $750 in Target rewards with a simple process.",
     siteName: "Target Method",
     images: [
       {
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Target Method",
-    description: "Unlock up to $500 in Target rewards with a simple process.",
+    description: "Unlock up to $750 in Target rewards with a simple process.",
     images: ["/og-image.jpg"],
   },
   other: {

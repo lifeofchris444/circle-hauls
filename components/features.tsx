@@ -49,7 +49,7 @@ export function Features() {
             Unlock Rewards
           </span>
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-foreground mt-3 max-w-2xl mx-auto text-balance">
-            What You Can Do With Your $500 Gift Card
+            What You Can Do With Your $750 Gift Card
           </h2>
         </div>
 

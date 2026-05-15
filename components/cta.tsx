@@ -61,7 +61,7 @@ export function CTA() {
               }`}
               style={{ transitionDelay: sectionVisible ? "400ms" : "0ms" }}
             >
-              Join thousands of shoppers who have already claimed their $500 gift card. Your savings are just a few clicks away.
+              Join thousands of shoppers who have already claimed their $750 gift card. Your savings are just a few clicks away.
             </p>
             
             <div
@@ -71,7 +71,7 @@ export function CTA() {
               style={{ transitionDelay: sectionVisible ? "500ms" : "0ms" }}
             >
               <a
-                href="https://trksy.org/aff_c?offer_id=2746&aff_id=26188"
+                href="https://trksy.org/aff_c?offer_id=1177&aff_id=26188&source=777"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="touch-button group inline-flex items-center gap-3 bg-white text-[#cc0000] px-10 py-5 rounded-full text-lg font-semibold hover:bg-white/95 transition-all duration-300 hover:shadow-2xl hover:-translate-y-1"
