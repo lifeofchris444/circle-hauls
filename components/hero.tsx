@@ -46,7 +46,7 @@ export function Hero() {
           }`}
         >
           <a
-            href="https://trksy.org/aff_c?offer_id=1381&aff_id=26188"
+            href="https://trksy.org/aff_c?offer_id=1178&aff_id=26188"
             target="_blank"
             rel="noopener noreferrer"
             className="touch-button group inline-flex items-center gap-3 bg-[#cc0000] text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-[#a30000] transition-all duration-300 hover:shadow-xl hover:shadow-[#cc0000]/20 hover:-translate-y-0.5"
