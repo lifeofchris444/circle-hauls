@@ -36,7 +36,7 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
           }`}
         >
-          Discover how people are saving big on tech, home essentials, everyday finds, and more.
+          Discover how people are saving big on tech, home essentials, everyday finds, and the new Pink Bearista Cup
         </p>
 
         {/* CTA Button */}

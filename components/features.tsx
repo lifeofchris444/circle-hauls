@@ -30,7 +30,7 @@ const features = [
     secondaryIcon: ShoppingCart,
     title: "Accessories & More",
     description:
-      "Browse accessories, add-ons, and must-have everyday items.",
+      "Browse accessories, add-ons, must-have everyday items and the new Pink Bearista Cup everyone's talking about.",
   },
 ];
 
