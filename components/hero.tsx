@@ -26,8 +26,8 @@ export function Hero() {
           }`}
         >
           The{" "}
-          <span className="text-[#cc0000] font-semibold">Target Method</span>{" "}
-          That&apos;s Changing Everything
+          <span className="text-[#cc0000] font-semibold">Target Discounts</span>{" "}
+          They Don&apos;t Advertise
         </h1>
 
         {/* Subheadline */}
@@ -36,7 +36,7 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
           }`}
         >
-          Discover how people are saving big on tech, home essentials, everyday finds, and the new Pink Bearista Cup
+          Discover how shoppers are unlocking hidden discount codes on tech, home goods, and everyday finds
         </p>
 
         {/* CTA Button */}
@@ -81,8 +81,8 @@ export function Hero() {
             />
           </div>
           <p className="text-sm text-muted-foreground/70 font-medium">
-            <span className="sm:hidden">Join 12,000+ shoppers who&apos;ve<br />already claimed their rewards.</span>
-            <span className="hidden sm:inline">Join 12,000+ shoppers who&apos;ve already claimed their rewards.</span>
+            <span className="sm:hidden">Join 12,000+ shoppers who&apos;ve<br />already claimed their discounts</span>
+            <span className="hidden sm:inline">Join 12,000+ shoppers who&apos;ve already claimed their discounts</span>
           </p>
         </div>
       </div>

@@ -1,6 +1,6 @@
 "use client";
 
-import { Smartphone, Home, TrendingUp, Package, Tv, Sofa, Sparkles, ShoppingCart } from "lucide-react";
+import { Smartphone, Home, TrendingUp, Backpack, Tv, Sofa, Sparkles, ShoppingCart } from "lucide-react";
 import { useScrollAnimation } from "@/hooks/use-scroll-animation";
 
 const features = [
@@ -9,28 +9,28 @@ const features = [
     secondaryIcon: Tv,
     title: "Tech & Electronics",
     description:
-      "Shop popular devices like tablets, headphones, and smart home tech.",
+      "Use your discount code on popular devices like tablets, headphones, and smart home tech.",
   },
   {
     icon: Home,
     secondaryIcon: Sofa,
     title: "Home Essentials",
     description:
-      "Upgrade your space with decor, furniture, and everyday essentials.",
+      "Save on decor, furniture, and everyday essentials to upgrade your space for summer.",
   },
   {
     icon: TrendingUp,
     secondaryIcon: Sparkles,
     title: "Trending Finds",
     description:
-      "Get access to viral products, seasonal items, and exclusive deals.",
+      "Apply your code to viral products, summer seasonal items, and exclusive deals.",
   },
   {
-    icon: Package,
+    icon: Backpack,
     secondaryIcon: ShoppingCart,
-    title: "Accessories & More",
+    title: "Back to School Shopping",
     description:
-      "Browse accessories, add-ons, must-have everyday items and the new Pink Bearista Cup everyone's talking about.",
+      "Stock up on backpacks, school supplies, and everything students need for the new school year.",
   },
 ];
 
@@ -49,7 +49,7 @@ export function Features() {
             Unlock Rewards
           </span>
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-foreground mt-3 max-w-2xl mx-auto text-balance">
-            What You Can Do With Your $750 Gift Card
+            What You Can Do With Your Summer Discount Code
           </h2>
         </div>
 

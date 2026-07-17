@@ -10,8 +10,9 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Target Method",
-  description: "Discover how people are unlocking up to $750 in Target rewards. Complete simple steps and claim your gift card today.",
+  title: "Target Discounts They Don't Advertise",
+  description:
+    "Discover how shoppers are unlocking hidden discount codes on tech, home goods, and everyday finds. Complete simple steps and claim your discount code today.",
   generator: "v0.app",
   icons: {
     icon: [
@@ -25,9 +26,9 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    title: "Target Method",
-    description: "Unlock up to $750 in Target rewards with a simple process.",
-    siteName: "Target Method",
+    title: "Target Discounts They Don't Advertise",
+    description: "Unlock hidden discount codes on tech, home goods, and everyday finds with a simple process.",
+    siteName: "Target Discounts",
     images: [
       {
         url: "/og-image.jpg",
@@ -39,12 +40,12 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Target Method",
-    description: "Unlock up to $750 in Target rewards with a simple process.",
+    title: "Target Discounts They Don't Advertise",
+    description: "Unlock hidden discount codes on tech, home goods, and everyday finds with a simple process.",
     images: ["/og-image.jpg"],
   },
   other: {
-    "apple-mobile-web-app-title": "Target Method",
+    "apple-mobile-web-app-title": "Target Discounts",
   },
 }
 
