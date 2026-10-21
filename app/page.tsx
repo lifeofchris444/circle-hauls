@@ -1,9 +1,5 @@
 import TargetRewardLander from "@/components/target-lander"
 
-export default function Home() {
-  return (
-    <main>
-      <TargetRewardLander />
-    </main>
-  )
+export default function Page() {
+  return <TargetRewardLander />
 }
