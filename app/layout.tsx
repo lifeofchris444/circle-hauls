@@ -10,10 +10,10 @@ const inter = Inter({
 })
 
 const SITE_URL = "https://www.targetdiscounts.com"
-const SITE_NAME = "Target Christmas Discounts"
+const SITE_NAME = "Target Discounts"
 const TITLE = "The Target Discounts They Don't Advertise"
 const DESCRIPTION =
-  "Discover how shoppers are unlocking hidden Target discounts this Christmas — on Wondershop decor, toys, holiday pajamas, and stocking stuffers. Complete 5+ deals in five simple steps and get your discount delivered straight to your inbox."
+  "Discover how shoppers are unlocking hidden discount codes on tech, home goods, and everyday finds. Complete 5+ deals in five simple steps and get your discount delivered straight to your inbox."
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -23,13 +23,13 @@ export const metadata: Metadata = {
   keywords: [
     "Target discount code",
     "Target promo code",
-    "Target Christmas sale",
-    "Target holiday discounts",
-    "Target Wondershop",
-    "Target toy deals",
-    "Target holiday pajamas",
-    "Target stocking stuffers",
-    "Target Christmas gifts",
+    "Target discounts",
+    "Target deals",
+    "Target rewards program",
+    "tech and electronics deals",
+    "home essentials deals",
+    "trending finds deals",
+    "Halloween deals",
   ],
   authors: [{ name: SITE_NAME, url: SITE_URL }],
   creator: SITE_NAME,
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
         url: "/og-image.png",
         width: 1024,
         height: 1024,
-        alt: "Christmas flat-lay of a flocked tabletop tree with ornaments, a wrapped toy gift, plaid holiday pajamas, and a filled Christmas stocking with fairy lights on a bright red background",
+        alt: "A tablet, headphones, towels, and a backpack floating on a red background",
       },
     ],
   },
